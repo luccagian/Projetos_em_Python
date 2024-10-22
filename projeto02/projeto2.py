@@ -1,6 +1,4 @@
-#Nome: Gian Lucca Campanha Ribeiro RA: 10438361
-#Nome: Henrique Ferreira Marciano RA: 10439797
-#Nome: Pedro Casas Pequeno Junior RA: 10437031
+#sistema para analise de dados dado um aquivo csv
 '------------------------------------------------'
 
 #abrindo o aquivo do excel
